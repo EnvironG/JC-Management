@@ -3,4 +3,8 @@
     line-height: 1.7rem;
     text-decoration-line: none;
     margin: 0 3.8rem;
+
+    &:visited {
+        color: $color-gray-4D;
+    }
 }
