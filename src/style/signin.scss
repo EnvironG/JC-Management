@@ -24,5 +24,11 @@
     }
     &__text-links {
         margin-top: 4rem;
+           
+    }
+
+    &__email,
+    &__password {
+        transform: translateX(-64.5px)
     }
 }
